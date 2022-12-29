@@ -1,12 +1,12 @@
 #!/usr/bin/bash
 
-VERSION="v1.0"
+VERSION="v1.0.3"
 echo "
     ||| Unzipper Bot - $VERSION |||
 
-Copyright (c) 2022 Itz-fork
+Copyright (c) 2022 uzx
 
---> Join @NexaBotsUpdates
---> Follow Itz-fork on Github
+--> Join @Uzx_bots
+--> Follow IlluzX on Github
 "
 python3 -m unzipper
