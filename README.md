@@ -64,7 +64,7 @@ Deploying is easy 🤫! You can deploy this bot in Heroku or in a linux VPS ♥�
 <a href="https://www.heroku.com/deploy?template=https://github.com/illuzX/Unzipper-Bot/tree/arch">
   <img src="https://www.herokucdn.com/deploy/button.svg">
 </a>
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UmRMPV?referralCode=LFgJXz)
 
 ### Self-Hosting
 > Note ⚠️
