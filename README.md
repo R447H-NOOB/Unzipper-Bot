@@ -7,6 +7,8 @@
 </br>
 
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UmRMPV?referralCode=LFgJXz)
+
 ## Table of content
 - [Features ⚡](#features-)
 - [Config vars 📖](#configs-)
